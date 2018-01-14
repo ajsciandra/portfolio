@@ -1,0 +1,11 @@
+#header{
+  background-color:red;
+}
+.img-fluid{
+  max-width:80px;
+}
+.btn{
+  background-color:red;
+  color:black;
+  margin-top:20px;
+}
