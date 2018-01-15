@@ -9,3 +9,6 @@
   color:black;
   margin-top:20px;
 }
+.btn:hover{
+  background-color: white;
+}

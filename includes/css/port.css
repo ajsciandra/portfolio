@@ -1,0 +1,47 @@
+.start-text{
+  text-align:center;
+  font-size: 150%;
+  color:white;
+}
+#about-me{
+  background-color: black;
+}
+.my-photo{
+  max-width:30%;  
+  border-radius:40%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+#start-port{;
+  color:black !important;
+}
+#my-port{
+  padding: 10px 0px 0px 0px;
+  background-color: #F5F5F5;
+}
+hr{
+  border-top: 5px solid !important;
+  max-width: 512px;
+  display: block;
+  height: 10px;
+  border: none;;
+}
+#about-hr{
+  color:white;
+}
+#port-hr{
+  color: black;
+}
+.thumbnail{
+  background-color:grey !important;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+.caption p{
+  text-align:center;
+  font-size:130%;
+}
+.thumbnail img{
+  padding-top: 5px;
+}
