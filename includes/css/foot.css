@@ -3,3 +3,15 @@
   color:white;
   padding-bottom: 50px;
 }
+.about{
+  text-align:center;
+}
+.create{
+  text-align:center;
+}
+a{
+  color:white !important;
+}
+a:hover{
+  color:red !important;
+}
